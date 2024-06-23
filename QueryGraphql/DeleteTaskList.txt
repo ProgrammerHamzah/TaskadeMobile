@@ -1,0 +1,3 @@
+mutation deleteTaskList($id:ID!){
+  deleteTaskList(id: $id)
+}

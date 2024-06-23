@@ -1,0 +1,15 @@
+mutation createToDo($content: String!, $taskListId: ID!){
+  createToDo(content: $content, taskListId: $taskListId) {
+    id
+    content
+    isCompleted
+    taskList {
+      id
+      todos {
+        id
+        content
+        isCompleted
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+query myTaskLists{
+  myTaskLists {
+    id
+    title
+    createdAt
+  }
+}

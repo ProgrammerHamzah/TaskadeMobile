@@ -1,0 +1,10 @@
+mutation addUserTaskList($userId:ID!,$taskListId:ID!){
+  addUserToTaskList(taskListId: $taskListId, userId: $userId) {
+    id
+    title
+    users {
+      id
+      email
+    }
+  }
+}

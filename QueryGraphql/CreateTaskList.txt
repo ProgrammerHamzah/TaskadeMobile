@@ -1,0 +1,12 @@
+mutation createTaskList($title:String!){
+  createTaskList(title: $title) {
+    id
+    createdAt
+    title
+    progress
+    users {
+      id
+      name
+    }
+  }
+}

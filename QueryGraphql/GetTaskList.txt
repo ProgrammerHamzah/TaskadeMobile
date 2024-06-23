@@ -1,0 +1,10 @@
+query getTaskList($id:ID!){
+  getTaskList(id: $id) {
+    id
+    title
+    createdAt
+    users {
+      id
+    }
+  }
+}

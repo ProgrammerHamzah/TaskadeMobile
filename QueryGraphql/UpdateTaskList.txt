@@ -1,0 +1,11 @@
+mutation updateTaskList($id:ID!,$title:String!){
+  updateTaskList(id: $id, title: $title) {
+    id
+    title
+    createdAt
+    users {
+      id
+      name
+    }
+  }
+}
