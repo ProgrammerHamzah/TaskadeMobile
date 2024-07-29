@@ -1,18 +1,18 @@
-Task Manager Mobile Application
+# Task Manager Mobile Application
 
-Overview
+## Overview
 The Task Manager Mobile Application is designed to help users efficiently manage their daily tasks and activities. The app allows users to create, edit, delete, and organize tasks with ease, providing a user-friendly interface and a variety of features to enhance productivity.
 
-Features
+## Features
 Task Creation: Easily create new tasks with details such as title, description, due date, and priority level.
 Task Management: Edit and delete tasks as needed. Mark tasks as completed to keep track of progress.
 Categories: Organize tasks into categories for better management and quick access.
 User-Friendly Interface: Intuitive and easy-to-navigate interface designed for a seamless user experience.
 
-Installation
+## Installation
 use android studio emulator or another device to run application.
 
-Usage
+## Usage
 Open the App:
 Launch the application from your home screen.
 Create a Task:
