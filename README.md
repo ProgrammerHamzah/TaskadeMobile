@@ -1,7 +1,7 @@
 # Task Manager Mobile Application
 
 ## Overview
-The Task Manager Mobile Application is designed to help users efficiently manage their daily tasks and activities. The app allows users to create, edit, delete, and organize tasks with ease, providing a user-friendly interface and a variety of features to enhance productivity.
+The Task Manager Mobile Application is designed to help users efficiently manage their daily tasks and activities. The app allows users to create, edit, delete, and organize tasks with ease, providing a user-friendly interface and a variety of features to enhance productivity. To create, edit,delete, and organize this application use graphql and use mongodb for database.
 
 ## Features
 Task Creation: Easily create new tasks with details such as title and description.
@@ -37,7 +37,7 @@ Thank you for using the Task Manager Mobile Application! We hope it helps you st
 # Aplikasi Pengelolaan Tugas Mobile
 
 ## Ringkasan
-Aplikasi pengelolaan tugas mobile didesain untuk membantu pengguna secara efektif mengelola tugas rutin dan aktivitas. Aplikasi membantu pengguna untuk membuat, mengedit, menghapus, dan mengorganisasi tugas dengan mudah, memberikan antarmuka yang ramah pengguna dan variasi fitur yang dapat meningkatkan produktivitas.
+Aplikasi pengelolaan tugas mobile didesain untuk membantu pengguna secara efektif mengelola tugas rutin dan aktivitas. Aplikasi membantu pengguna untuk membuat, mengedit, menghapus, dan mengorganisasi tugas dengan mudah, memberikan antarmuka yang ramah pengguna dan variasi fitur yang dapat meningkatkan produktivitas. Untuk membuat, mengedit, menghapus, dan mengorganisasi menggunakan graphql dan penggunaan mongodb untuk database.
 
 ## Fitur
 Pembuatan tugas: mudah membuat tugas dengan detail seperti judul dan deskripsi.
