@@ -16,23 +16,19 @@ User-Friendly Interface: Easy-to-navigate interface designed for a seamless user
 use android studio emulator or another device to run application.
 
 ## Usage
-Open the App:
-Launch the application from your home screen.
+Open the GraphQL:
+Launch the grahpql on web.
 
 Create a Task:
-Tap the "Add Task" button.
-Fill in the task details such as title, description, due date, and priority.
-Tap "Save" to create the task.
+Create tasks with GraphQL by sending a mutation query to add new tasks seamlessly. Specify task details like title and description in the query.
 
 Edit or Delete a Task:
-Tap on the task you want to edit or delete.
-Choose "Edit" to update the task details or "Delete" to remove the task.
+Edit and delete tasks with GraphQL by sending query to edit and remove tasks seamlessly.
 
 Organize Tasks:
-Use categories to group similar tasks together.
-Access categories from the main menu and add tasks to them.
+Organize tasks with GraphQL by sending queries to group tasks into categories. Specify the category and tasks to ensure efficient organization and easy retrieval.
 
-Thank you for using the Task Manager Mobile Application! We hope it helps you stay organized and productive.
+Thank you for using the Task Manager Mobile Application!.
 
 # Aplikasi Pengelolaan Tugas Mobile
 
@@ -52,3 +48,16 @@ Antarmuka Ramah Pengguna: Antarmuka yang mudah dinavigasi, didesain untuk pengal
 Gunakan android studio emulator atau perangkat lainnya untuk menjalankan aplikasi.
 
 ## Penggunaan
+Buka GraphQL:
+Luncurkan graphql di web.
+
+Buat tugas:
+buat tugas menggunakan graphql dengan mengirim mutasi query untuk menambahkan tugas baru secara lancar. Spesifikasi tugas secara detail seperti judul dan deskripsi pada query.
+
+Ubah dan hapus tugas:
+ubah dan hapus tugas menggunakan graphql dengan mengirim query untuk mengubah dan menghapus tugas secara lancar.
+
+Mengorganisasit tugas:
+organisasi tugas menggunakan graphql dengan mengirim query untuk menjadikan tugas kelompok menjadi kategori. Spesifikasikan kategori dan tugas untuk memastikan effisiensi organisasi dan pengambilan yang mudah.
+
+Terima kasih menggunakan applikasi pengelolaan tugas mobile!.
