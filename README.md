@@ -57,7 +57,7 @@ buat tugas menggunakan graphql dengan mengirim mutasi query untuk menambahkan tu
 Ubah dan hapus tugas:
 ubah dan hapus tugas menggunakan graphql dengan mengirim query untuk mengubah dan menghapus tugas secara lancar.
 
-Mengorganisasit tugas:
+Mengorganisasi tugas:
 organisasi tugas menggunakan graphql dengan mengirim query untuk menjadikan tugas kelompok menjadi kategori. Spesifikasikan kategori dan tugas untuk memastikan effisiensi organisasi dan pengambilan yang mudah.
 
 Terima kasih menggunakan applikasi pengelolaan tugas mobile!.
